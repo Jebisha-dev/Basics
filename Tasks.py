@@ -184,8 +184,14 @@
 
 # a=input("enter the value:")
 # b=input("enter the width value:")
+# # c= a.zfill(b)
+# print(a.zfill(b))
+
+
+a=input("enter the value:")
+# b=input("enter the width value:")
 # c= a.zfill(b)
-# print(c)
+print(a.zfill(5))
 
 
 # a="5"
@@ -232,10 +238,10 @@
 # print(d)
 
 
-a=input("enter the value:")
-c= input("enter the value need to be counted:")
-b=(c.count(a))
-print(b)
+# a=input("enter the value:")
+# c= input("enter the value need to be counted:")
+# b=(c.count(a))
+# print(b)
 
 
      
