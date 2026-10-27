@@ -4,12 +4,12 @@
 # print(c)
 
 
-a=input("enter the first name :")
-b=input("enter the second value:")
-result = a+b
-print(result)
+# a=input("enter the first name :")
+# b=input("enter the second value:")
+# result = a+b
+# print(result)
 
-a=int(input("enter the first name :"))
-b=int(input("enter the second value:"))
-result = a*b
-print(result)
+# a=int(input("enter the first name :"))
+# b=int(input("enter the second value:"))
+# result = a*b
+# print(result)
